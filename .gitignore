@@ -1,0 +1,15 @@
+__pycache__
+yolov8s-seg.pt
+models
+resnext_101_32x4d.pth
+
+blender_results.blend
+blender_results.blend1
+
+moge_outputs
+moge_outputs.zip
+moge_outputs/test-1/mesh.glb
+moge_outputs/test-2/mesh.glb
+moge_outputs/test-3/mesh.glb
+moge_outputs/test-4/mesh.glb
+moge_outputs/test-5/mesh.glb
